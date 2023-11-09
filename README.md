@@ -7,3 +7,12 @@ SusPackets is a Bash script I designed to perform routine network checks, focusi
 * Looks for suspicious packets on commonly used ports
 * Timestamps
 * Helps with RCA/Post-Mortem reports
+
+## Upcoming 
+
+The creation of [DAG cards](https://github.com/jacopotagliabue/dag-card-is-the-new-model-card) using automation through Python: 
+
+![image](https://github.com/Montana/suspackets/assets/20936398/ac4afa57-8766-45fe-9ecf-ad25a1c9bfe0)
+
+_Fig 1: Generated Dag card_.
+
