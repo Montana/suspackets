@@ -14,5 +14,5 @@ The creation of [DAG cards](https://github.com/jacopotagliabue/dag-card-is-the-n
 
 ![image](https://github.com/Montana/suspackets/assets/20936398/ac4afa57-8766-45fe-9ecf-ad25a1c9bfe0)
 
-_Fig 1: Generated Dag card_.
+_Fig 1: Generated DAG card_.
 
